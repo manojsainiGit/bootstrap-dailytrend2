@@ -1,0 +1,1 @@
+# bootstrap-dailytrend2
